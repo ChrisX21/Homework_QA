@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_selenium_tests", "Homework_selenium_tests\Homework_selenium_tests.csproj", "{9DBFE239-1281-4A58-98B7-219B4F4E200D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{3BF2DFC7-52D3-4878-97E1-F7EF3667717F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9DBFE239-1281-4A58-98B7-219B4F4E200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DBFE239-1281-4A58-98B7-219B4F4E200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DBFE239-1281-4A58-98B7-219B4F4E200D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF2DFC7-52D3-4878-97E1-F7EF3667717F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF2DFC7-52D3-4878-97E1-F7EF3667717F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF2DFC7-52D3-4878-97E1-F7EF3667717F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF2DFC7-52D3-4878-97E1-F7EF3667717F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
